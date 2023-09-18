@@ -1,0 +1,8 @@
+START firefox
+CALL navigate no
+CALL search no
+CALL download no
+RETURN
+RETURN
+RETURN
+RETURN

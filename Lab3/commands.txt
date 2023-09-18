@@ -1,0 +1,14 @@
+START itunes
+START firefox
+CALL play yes
+CALL navigate yes
+CALL new yes
+CALL other yes
+CALL other yes
+CALL other yes
+RAISE
+RETURN
+RAISE
+RETURN
+RETURN
+RETURN
